@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Transform your cooking experience with our user-friendly, high-performance wok designed for both novice and seasoned chefs alike.",
+        "title": "Master Culinary Artistry with LOL Wok"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your cooking experience with our user-friendly, high-performance wok designed for both novice and seasoned chefs alike.",
+        "title": "Master Culinary Artistry with LOL Wok"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Transform your cooking experience with our user-friendly, high-performance wok designed for both novice and seasoned chefs alike.",
+        "title": "Master Culinary Artistry with LOL Wok"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Transform your cooking experience with our user-friendly, high-performance wok designed for both novice and seasoned chefs alike.",
+        "title": "Master Culinary Artistry with LOL Wok"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your cooking experience with our user-friendly, high-performance wok designed for both novice and seasoned chefs alike.",
+        "title": "Master Culinary Artistry with LOL Wok"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Transform your cooking experience with our user-friendly, high-performance wok designed for both novice and seasoned chefs alike.",
+        "title": "Master Culinary Artistry with LOL Wok"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Transform your cooking experience with our user-friendly, high-performance wok designed for both novice and seasoned chefs alike.",
+        "title": "Master Culinary Artistry with LOL Wok"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your cooking experience with our user-friendly, high-performance wok designed for both novice and seasoned chefs alike.",
+        "title": "Master Culinary Artistry with LOL Wok"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Master Culinary Artistry with LOL Wok",
+  "subtitle": "Transform your cooking experience with our user-friendly, high-performance wok designed for both novice and seasoned chefs alike."
+}
